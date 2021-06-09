@@ -4,7 +4,7 @@ Plugin Framework implemented using .NET and C# for handling images. Functions li
 ## Plugins dropdown menu
 ![ss1](https://user-images.githubusercontent.com/47394580/121299653-615d5400-c913-11eb-8d85-017703771682.png)
 
-## Converted to grascale
+## Converted to grayscale
 ![ss2](https://user-images.githubusercontent.com/47394580/121299798-949fe300-c913-11eb-9cc6-7b0884ed0191.PNG)
 
 ## Converted to color blue
